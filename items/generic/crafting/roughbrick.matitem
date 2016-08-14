@@ -1,0 +1,17 @@
+{
+  "itemName" : "terasac_roughbrick",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "roughbrick.png",
+  "description" : "Rough, disorderly bricks.",
+  "shortdescription" : "Rough Bricks",
+  "glitchDescription" : "Observant. These bricks are rough and very disorderly.",
+  "floranDescription" : "Rough disssorderly sstone bricks.",
+  "novakidDescription" : "These bricks are mighty rough.",
+  "hylotlDescription" : "These bricks could have better craftsmanship.",
+
+  "materialId" : 11700,
+  "learnBlueprintsOnPickup" : []
+}
+

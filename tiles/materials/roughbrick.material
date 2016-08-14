@@ -1,0 +1,25 @@
+{
+  "materialId" : 11700,
+  "materialName" : "terasac_roughbrick",
+  "particleColor" : [112, 112, 112, 255],
+  "itemDrop" : "terasac_roughbrick",
+  "description" : "Rough, disorderly bricks.",
+  "shortdescription" : "Bamboo",
+  "glitchDescription" : "Observant. These bricks are rough and very disorderly.",
+  "floranDescription" : "Rough disssorderly sstone bricks.",
+  "novakidDescription" : "These bricks are mighty rough.",
+  "footstepSound" : "/sfx/blocks/footstep_stone.ogg",
+  "health" : 6,
+  "category" : "materials",
+  "damageTable" : "/tiles/defaultDamage.config",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "roughbrick.png",
+    "variants" : 4,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 0
+  }
+}

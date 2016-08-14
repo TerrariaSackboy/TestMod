@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "cobblestonebrick", "count" : 4 }
+  ],
+  "output" : {
+    "item" : "terasac_roughbrick",
+    "count" : 5
+  },
+  "duration" : 0.25,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+} 
